@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "204403357576",
+    "firebase_url": "https://easyreach-9dd09.firebaseio.com",
+    "project_id": "easyreach-9dd09",
+    "storage_bucket": "easyreach-9dd09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204403357576:android:b1b617563cb68aaf",
+        "android_client_info": {
+          "package_name": "com.jastworld.easyreach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204403357576-hcjal0n1ats1kee4kq0orvm5a8nufm1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jastworld.easyreach",
+            "certificate_hash": "8FFD85964161B2232FFA5D04EE8238A39257F6C6"
+          }
+        },
+        {
+          "client_id": "204403357576-17bobnlf17vmqbm0hsjgvsulffcfjntd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGo-A1LJ2c8OoXB9ShPTBTtsGQJy4T0O0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204403357576-17bobnlf17vmqbm0hsjgvsulffcfjntd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
